@@ -40,4 +40,7 @@ This master README provides an overview of the Data Science Projects Repository,
 
 ## My Project
 
-A model of dengue virus classification.
+A Project of 
+* Web scrapping real-time epidemiology data
+* EDA 
+* Visualization
